@@ -11,7 +11,7 @@ Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa 
 # GitHub Stacks
 
 <div style="display: flex; justify-content: space-between;">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueMatamoros&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 48%;" />
+  <img src="https://github-readme-stats.vercel.app/api?username=JosueMatamoros&theme=dark&hide_border=false&include_all_commits=true&count_private=true" style="width: 48%;" /> <br>
   <img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMatamoros&theme=dark&hide_border=false" style="width: 48%;" />
 </div>
 
