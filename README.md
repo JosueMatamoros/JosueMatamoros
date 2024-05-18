@@ -52,10 +52,12 @@ Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa 
   </a>
 </p>
 
-<div align="center">
+<div align="left">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JosueMatamoros&theme=dark&hide_border=false&include_all_commits=true&count_private=true&layout=compact" />
 </div>
 
+## 🎧 Music | Spotify Playing
+[![spotify-github-profile](https://spotify-github-profile.vercel.app/api/view?uid=31rvhpy4rlxumpbdyxhoeljthvpu&cover_image=true&theme=novatorem&show_offline=true&background_color=121212&interchange=true&bar_color=53b14f&bar_color_cover=false)](https://spotify-github-profile.vercel.app/api/view?uid=31rvhpy4rlxumpbdyxhoeljthvpu&redirect=true)
 
 
 
