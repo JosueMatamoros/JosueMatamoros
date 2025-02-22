@@ -27,24 +27,46 @@ Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa 
   <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
 </div>
 
+###
+<table border="0" style="border: none; border-collapse: collapse;">
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img
+        src="https://github-readme-stats.vercel.app/api?username=JosueMatamoros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false"
+        height="150"
+        style="width: 100%;"
+        alt="stats graph"
+      />
+    </td>
+    <td align="center" style="border: none;">
+      <img
+        src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueMatamoros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false"
+        height="150"
+        alt="languages graph"
+      />
+    </td>
+  </tr>
+  <tr style="border: none;">
+    <td style="border: none;">
+      <img
+        src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMatamoros&theme=dark&hide_border=false"
+        height="160"
+        style="width: 100%; margin-top: 20px;"
+        alt="streak graph"
+      />
+    </td>
+    <td align="center" style="border: none;">
+      <img
+        src="https://i.gifer.com/DW2c.gif"
+        height="160"
+        style="margin-top: 20px;"
+        alt="gif"
+      />
+    </td>
+  </tr>
+</table>
 
 ###
-
-<div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JosueMatamoros&hide_title=false&hide_rank=false&show_icons=true&include_all_commits=true&count_private=true&disable_animations=false&theme=dracula&locale=en&hide_border=false" height="150" alt="stats graph"  />
-  <img src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueMatamoros&locale=en&hide_title=false&layout=compact&card_width=320&langs_count=5&theme=dracula&hide_border=false" height="150" alt="languages graph"  />
-</div>
-
-###
-
-<br clear="both">
-
-<img align="right" height="150" src="https://i.gifer.com/DW2c.gif"  />
-
-
-
-###
-
 <div align="left">
   <a href="https://www.instagram.com/jmatamoros_/" target="_blank">
     <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
@@ -57,7 +79,4 @@ Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa 
 
 ###
 
-
-
-<img src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMatamoros&theme=dark&hide_border=false" height="160" style="width: 100%; margin-top: 20px;" />
 
