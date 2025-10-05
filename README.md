@@ -16,7 +16,6 @@ I enjoy building tools that solve real problems and exploring how systems work u
 <img src="https://skillicons.dev/icons?i=apple,vscode,idea,pycharm,git,github,notion" />
 
 ## My GitHub Stats
-
 <div align="left">
   <img
     src="https://github-readme-streak-stats.herokuapp.com/?user=JosueMatamoros&theme=meta-dark&hide_border=false"
@@ -24,12 +23,11 @@ I enjoy building tools that solve real problems and exploring how systems work u
     style="display: inline-block; vertical-align: top;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueMatamoros&layout=compact&langs_count=6&theme=meta-dark&hide_border=false"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueMatamoros&layout=compact&langs_count=6&hide_border=false&bg_color=141321&title_color=E5E9F0&text_color=A9B2C1&icon_color=E5E9F0"
     height="150"
     style="display: inline-block; vertical-align: top; margin-left: 10px;"
   />
 </div>
-
 
 ## Connect with me
 <a href="https://www.instagram.com/jmatamoros_/" target="_blank"><img src="https://skillicons.dev/icons?i=instagram" height="48" /></a>
