@@ -1,4 +1,6 @@
-# Hi, I'm Josué Matamoros
+<p align="center">
+  <img src="img/header.png" alt="Josué Matamoros Header" width="840">
+</p>
 
 # About me 
 Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa Rica with a strong passion for technology and learning. I love exploring new projects and expanding my skills.
