@@ -8,21 +8,15 @@ Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa 
 
 ## Tools & Frameworks That I Use
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,react,vue,nextjs,vite,nodejs,figma,mysql,postgres,md,r,latex&perline=9" />
-</p>
+<img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,react,vue,nextjs,vite,nodejs,figma,mysql,postgres,md,r,latex&perline=9" />
 
 ## Familiar / Learning
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,angular,unity" />
-</p>
+<img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,angular,unity" />
 
 ## Dev Environment
 
-<p align="center">
-  <img src="https://skillicons.dev/icons?i=apple,vscode,idea,pycharm,git,github,notion" />
-</p>
+<img src="https://skillicons.dev/icons?i=apple,vscode,idea,pycharm,git,github,notion" />
 
 ###
 
@@ -69,17 +63,15 @@ Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa 
 </table>
 
 ## Connect with me
-<p align="center">
-  <a href="https://www.instagram.com/jmatamoros_/" target="_blank">
-    <img src="https://skillicons.dev/icons?i=instagram" height="48" />
-  </a>
-  <a>
-    <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
-  </a>
-  <a href="mailto:1002matamoros@gmail.com" target="_blank">
-    <img src="https://skillicons.dev/icons?i=gmail" height="48" />
-  </a>
-  <a href="https://discordapp.com/users/matamoros_" target="_blank">
-    <img src="https://skillicons.dev/icons?i=discord" height="48" />
-  </a>
-</p>
+<a href="https://www.instagram.com/jmatamoros_/" target="_blank">
+  <img src="https://skillicons.dev/icons?i=instagram" height="48" />
+</a>
+<a>
+  <img src="https://skillicons.dev/icons?i=linkedin" height="48" />
+</a>
+<a href="mailto:1002matamoros@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail" height="48" />
+</a>
+<a href="https://discordapp.com/users/matamoros_" target="_blank">
+  <img src="https://skillicons.dev/icons?i=discord" height="48" />
+</a>
