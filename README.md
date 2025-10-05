@@ -2,34 +2,30 @@
   <img src="img/header.png" alt="Josué Matamoros Header" width="840">
 </p>
 
-# About me 
+# About me
+
 Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa Rica with a strong passion for technology and learning. I love exploring new projects and expanding my skills.
 
-# Tools and Technologies I Use
+# Tools & Frameworks That I Use
 
-<div align="left">
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/java/java-original.svg" height="30" alt="java logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/python/python-original.svg" height="30" alt="python logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/react/react-original.svg" height="30" alt="react logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/vuejs/vuejs-original.svg" height="30" alt="vuejs logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/html5/html5-original.svg" height="30" alt="html5 logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/git/git-original.svg" height="30" alt="git logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/mysql/mysql-original.svg" height="30" alt="mysql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/postgresql/postgresql-original.svg" height="30" alt="postgresql logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/jira/jira-original.svg" height="30" alt="jira logo"  />
-  <img width="12" />
-  <img src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/markdown/markdown-original.svg" height="30" alt="markdown logo"  />
-</div>
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=python,java,js,ts,html,css,tailwind,react,vue,nextjs,vite,nodejs,figma,mysql,postgres,md,r,latex" />
+</p>
+
+# Familiar / Learning
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=c,cpp,cs,go,rust,angular,unity" />
+</p>
+
+# Dev Environment
+
+<p align="center">
+  <img src="https://skillicons.dev/icons?i=apple,vscode,idea,pycharm,git,github,notion" />
+</p>
 
 ###
+
 <table
   width="100%"
   cellpadding="0"
@@ -72,19 +68,17 @@ Thank you for visiting my GitHub! I'm a Computer Engineering student from Costa 
   </tr>
 </table>
 
+# Connect with me
 
-
-###
-<div align="left">
+<p align="center">
   <a href="https://www.instagram.com/jmatamoros_/" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="instagram logo"  />
+    <img src="https://img.shields.io/static/v1?message=Instagram&logo=instagram&label=&color=E4405F&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <a href=" https://discordapp.com/users/matamoros_" target="_blank">
-    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="discord logo"  />
+  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&style=for-the-badge" height="35" />
+  <a href="mailto:1002matamoros@gmail.com" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Gmail&logo=gmail&label=&color=D14836&logoColor=white&style=for-the-badge" height="35" />
   </a>
-  <img src="https://img.shields.io/static/v1?message=LinkedIn&logo=linkedin&label=&color=0077B5&logoColor=white&labelColor=&style=for-the-badge" height="35" alt="linkedin logo"  />
-</div>
-
-###
-
-
+  <a href="https://discordapp.com/users/matamoros_" target="_blank">
+    <img src="https://img.shields.io/static/v1?message=Discord&logo=discord&label=&color=7289DA&logoColor=white&style=for-the-badge" height="35" />
+  </a>  
+</p>
