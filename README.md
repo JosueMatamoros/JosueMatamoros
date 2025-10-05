@@ -2,7 +2,7 @@
   <img src="img/header.png" alt="Josué Matamoros Header" width="840">
 </p>
 
-# About me
+## About me
 I'm a Computer Engineering student from Costa Rica passionate about backend development and software architecture.
 I enjoy building tools that solve real problems and exploring how systems work under the hood.
 
