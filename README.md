@@ -23,7 +23,7 @@ I enjoy building tools that solve real problems and exploring how systems work u
     style="display: inline-block; vertical-align: top;"
   />
   <img
-    src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueMatamoros&layout=compact&langs_count=6&hide_border=false&bg_color=0e1116&title_color=E5E9F0&text_color=A9B2C1&icon_color=E5E9F0"
+    src="https://github-readme-stats.vercel.app/api/top-langs?username=JosueMatamoros&layout=compact&langs_count=6&hide_border=false&bg_color=1C2B32&title_color=016EE9&text_color=E5E9F0"
     height="150"
     style="display: inline-block; vertical-align: top; margin-left: 10px;"
   />
